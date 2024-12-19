@@ -1,0 +1,10 @@
+[item]
+Watch=Watch
+
+[buff]
+watchbuff=Current time
+
+[itemtooltip]
+watchbuff1=Displays the current time
+watchbuff2=Current time: <time>
+watchbuff3=Current Time
